@@ -154,5 +154,11 @@ var hacktobermap = [
     location: "Medellín, Colombia",
     latitude: 6.271717,
     longitude: -75.568453
+  },
+  {
+    name: "Vishal",
+    location: "Kurukshetra, India",
+    latitude: 29.969513,
+    longitude: 76.878281
   }
 ];
